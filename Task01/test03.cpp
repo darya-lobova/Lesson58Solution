@@ -20,6 +20,7 @@ int main() {
 	cout << "Value: " << ptr_h << endl;
 	cout << "Value: " << ptr_b << endl;
 	cout << "Value: " << ptr_v << endl;
+	cout << "Value: " << main << endl;
 
 	return 0;
 }
